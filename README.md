@@ -1,6 +1,8 @@
 ## 📒 Descrição
 E-book feito no site [Visme](https://www.visme.co/pt-br/)
 
+Para o Bootcamp Python AI Back-end Developer da [Dio](https://web.dio.me/home)
+
 ## 🤖 Tecnologias Utilizadas
 IA para criação de E-book
 
