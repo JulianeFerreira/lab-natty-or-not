@@ -13,6 +13,6 @@ Criação de texto e design
 Trazer informação sobre a evolução dos dados e seu impacto nos dias atuais na sociedade.
 Link da publicação [Repositório](https://my.visme.co/view/w4691r1r-desbravando-fronteiras-analise-de-dados-em-tempo-real#s1)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Foi desafiador e me instigou a criar novos conteúdos!
 
